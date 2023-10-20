@@ -2,6 +2,5 @@
 
 Результат вы можете посмотреть здесь 
 
-https://venerhab.github.io/Resume2/
 
-[Моя первая работа на Html & Css
+[Моя первая работа на HTML @ CSS](https://venerhab.github.io/Resume2/)
